@@ -24,6 +24,7 @@ And
 - Eslint + Prettier
 - Nodemon
 - Sucrase
+- Multer
 
 ## Scripts:
 
