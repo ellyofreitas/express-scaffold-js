@@ -25,6 +25,7 @@ And
 - Nodemon
 - Sucrase
 - Multer
+- Queue with bull and redis
 
 ## Scripts:
 
